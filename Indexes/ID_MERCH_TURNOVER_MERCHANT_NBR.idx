@@ -1,0 +1,9 @@
+for(int j = 0; j < list1.size(); j++ ){
+			StringTokenizer  st1 = new StringTokenizer(list1.get(j)," \\ ");
+			int a = st1.countTokens();
+			st[j] = new Tokens();
+		    while (st1.hasMoreTokens()) {
+		    	st[j].list2.add(st1.nextToken());
+		    }
+		    System.out.println(st[j].list2.get(a-2));
+		}

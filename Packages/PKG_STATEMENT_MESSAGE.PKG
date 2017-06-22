@@ -1,0 +1,17 @@
+Sequences\seq_rule_id.seq
+Sequences\SEQ_RUPAY_ACK.SEQ
+Sequences\seq_saf_transactions.seq
+Sequences\SEQ_SANCTION_FILE.SEQ
+Sequences\seq_sms_batch.seq
+Sequences\seq_sms_log.seq
+Sequences\SEQ_STATEMENT_LAYOUT_ID.SEQ
+Sequences\SEQ_STATEMENT_MESSAGE_ID.SEQ
+Sequences\SEQ_SURCHARGE_PLAN.SEQ
+Sequences\SEQ_SURCHARGE_PLAN_DTL.SEQ
+Sequences\SEQ_SYSTEM_ATM_NUMBER.seq
+Sequences\seq_system_merchant_number.seq
+Sequences\seq_system_outlet_number.seq
+Sequences\seq_system_terminal_number.seq
+Sequences\seq_terminal.seq
+Sequences\SEQ_TRANSACTION_PLAN.SEQ
+Sequences\seq_txn_download.seq

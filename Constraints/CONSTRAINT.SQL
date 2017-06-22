@@ -1,0 +1,12 @@
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_MERCHANT_BATCH.pkg
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_MERCHANT_REPORTS.pkg
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\pkg_merchant_validations.pkg
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\pkg_msf_plan.pkg
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\pkg_msf_term_reset.pkg
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_NETWORK_KEY.PKG
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_NPIDG_PLAN.PKG
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_PAYMENT_FILE_EXTRACT.PKG
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\pkg_pre_clearing.pkg
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_PRE_EOD.PKG
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\PKG_PRODUCT_CONFIGURATION.PKG
+C:\Users\E069818\workspace\ULKA\Database1\Packages_body\pkg_release.pkg
